@@ -50,7 +50,7 @@ JLFShellGen is a comprehensive, high-performance payload generation engine writt
 ### Build from Source
 Do not compile specific file targets like `go build main.go`. Modern Go requires strict module management.
 ```bash
-git clone [https://github.com/jakeloai/JLFShellGen/](https://github.com/jakeloai/JLFShellGen/)
+git clone https://github.com/jakeloai/JLFShellGen/
 cd JLFShellGen
 go mod init jlfshellgen
 go build -o jlfshellgen .
